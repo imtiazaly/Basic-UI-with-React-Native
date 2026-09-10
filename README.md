@@ -82,7 +82,7 @@ Basic-UI-with-React-Native/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Imtiaz-Ali17314/Basic-UI-with-React-Native.git
+   git clone https://github.com/imtiazaly/Basic-UI-with-React-Native.git
    cd Basic-UI-with-React-Native
    ```
 
@@ -120,7 +120,7 @@ Basic-UI-with-React-Native/
 
 ## 🔗 Repository Information
 
-- **GitHub Repository**: [Imtiaz-Ali17314/Basic-UI-with-React-Native](https://github.com/Imtiaz-Ali17314/Basic-UI-with-React-Native.git)
+- **GitHub Repository**: [imtiazaly/Basic-UI-with-React-Native](https://github.com/imtiazaly/Basic-UI-with-React-Native.git)
 - **Author**: Imtiaz Ali
 
 ---
