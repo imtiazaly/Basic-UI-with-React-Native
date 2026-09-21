@@ -12,7 +12,7 @@ A sleek, modern, dark-themed **Task Management Mobile Application UI** built wit
 ## 📸 App Preview
 
 <div align="center">
-  <img src="assets/images/Basic-UI-with-React-Native.PNG" alt="App Preview" width="360" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <img src="assets/images/ui.PNG" alt="App Preview" width="360" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </div>
 
 ---
